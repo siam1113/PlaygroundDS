@@ -1,0 +1,6 @@
+@ Function annotation '->'
+Doesn't affect the actual programme but tells other users what actually the function returning
+Example :
+    def sum(list) -> int:
+      sum = math.sum(list)
+      return sum

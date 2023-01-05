@@ -1,0 +1,3 @@
+@ Assignment
+@ Expression
+@ Single-responsibility principle
