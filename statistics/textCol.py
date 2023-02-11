@@ -1,4 +1,5 @@
 import pandas as pd
+from azure.cosmos import CosmosClient
 
 # Read the text file
 df = pd.read_csv(
